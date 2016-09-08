@@ -1,0 +1,30 @@
+body,p{
+	margin: 0;
+}
+ul li{
+	width: 150px;
+	height:210px;
+	list-style: none;
+	float: left;
+	vertical-align: top;
+	position: relative;
+	overflow: hidden;
+}
+ul li p{
+	width: 150px;
+	height: 420px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+img{
+	width: 150px;
+	height: 210px;
+	vertical-align: top;
+	border: none;
+}
+#box{
+	width: 1300px;
+	height: 210px;
+	margin: 100px auto;
+}
